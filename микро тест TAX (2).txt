@@ -1,0 +1,1014 @@
+?Hamma iqtisodiy tizimlar uchun fundamental muammo bo‘lib hisoblanadi, bu
++Noyoblik va taqchillik
+-Investitsiya
+-Ishlab chiqarish
+-Iste’mol
+?Har qanday iqtisodiy tizimlarda “nima”, “qanday” va “kim uchun” degan fundamental savollar mikro va makro darajada hal etiladi Quyidagi tuzilgan savollardan qaysi biri mikroiqtisodiyot darajada hal etiladi?
++Nima va qancha ishlab chiqarish kerak?
+-To‘liq bandlik darajasiga qanday qilib erishiladi?
+-Inflyatsiyadan qanday qutulish mumkin?
+-Iqtisodiy o‘sishni qanday rag‘batlantirish mumkin
+?«Mikroiqtisodiyot» fani nimani o’rganadi
++birinchidan alohida iqtisodiy sub‘ektlarning (iste‘molchilar va ishlab chiqaruvchilar) harakatini, ikkinchidan alohida bozorlarning faoliyat ko’rsatish mexanizmini o’rganadi
+-iqtisodiy tizimning harakatini va rivojlanishini yaxlit o’rganadi
+-jamiyatning ehtiyojlarini qondirish uchun zarur bo’lgan ishlab chiqarish resurslaridan foydalanish yo’llarini o’rganadi
+-bozor iqtisodiyotining rivojlanishi mexanizmini o’rganadi
+?Iqtisodiyotni asosiy muammosi nima
++cheksiz ehtiyojni qondirishda cheklangan resurslardan oqilona foydalanish
+-ishlab chiqarishni to’gri tashkil etish
+-ko’prnoq foyda olish
+-nima ishlab chiqarishi kerak
+?Agar iqtisodiy muammolarning bir qismi bozor, bir qismi hukumat tomonidan hal etilsa, bunday iqtisodiyot
++Aralash deyiladi
+-Ma’muriy
+-Natural
+-Bozorli
+?Agar jamiyatda ishlab chiqarish resurslari ko‘paysa, u holda
++Iqtisodiyot tovar va xizmatlar ishlab chiqarishini ko‘paytirish imkoniga ega bo‘ladi
+-Tovar va xizmatlar yoki ishlab chiqarish ko‘payadi
+-Ishlab chiqarish texnologiyasi yaxshilanadi
+-Hayot kechirish farovonligi oshadi
+?Ishlab chiqarish resursi hisoblanmaydigan qatorni belgilang
++iste’mol mollari
+-foydali qazilmalar
+-malakali ishchi kuchi
+-laboratoriya jihozlari
+?Ishlab chiqarish resurslariga nimalar kiradi
++mehnat, yer, kapital, tadbirkorlik qobiliyati, axborot
+-mehnat, kapital, tadbirkorlik qobiliyati
+-mehnat, yer kapital ammo tadbirkorlik qobiliyati emas
+-faqatgina yer va kapital
+?Iqtisodiy ne’mat tavsiflari
++ehtiyojni qondirish vositasi, kamyoblilik, qimmatbaho
+-Kamyoblilik
+-Qimmatbaho
+-ehtiyojni qondirish vositasi
+?Iqtisodiy agentlar deb nimaga aytiladi?
++iqtisodiy ne’matlarni ishlab chiqarish,taqsimlash,ayriboshlash va iste’mol qilishda qatnashuvchi iqtisodiy munosabatlar sub’ektlardir
+-ishlab chiqaruvchi korxonalar
+-iste’molchilar
+-uy xo’jaligi
+?Quyidagi qayd etilganlarda qaysi biri mehnatga bo‘lgan talabga ta’sir ko‘rsatmaydi?
++iinflyatsiya natijasida sodir bo‘lgan nominal ish xaqining o‘zgarishi
+-ishlab chiqarish texnologiyasi
+-yakunlangan mahsulotga bo‘lgan talab
+-mehnatning chekli mahsuloti bilan boshqa resurslarning chekli mahsuloti o‘rtasidagi munosabat
+?Qaysi ibora insonlarning biror bir tovarni sotib olish uchun imkoniyat va xohishi borligini anglatadi
++talab
+-ehtiyoj
+-zaruriyat
+-xohish
+?Talab qonuni deyiladi, agar
++mahsulotning narxi pasaysa, uni olish hajmi ko‘paysa
+-iste’molchilarning daromadi ko‘paysa, u holda ular tovarlarni ko‘proq sotib oladilar
+-talab egri chizig‘i musbat qiyalikka egа
+-taklif hajmining talab hajmidan oshib ketishi bahoni tushushiga olib keladi
+?X mahsulotga bo‘lgan talab chizig‘i siljishini nima bilan izohlash mumkin
++iste’molchilar didlarining o‘zgarganligi munosabati bilan x tovarni har qanday bahoda ham oldingisiga nisbatan ko‘proq sotib olishni xohlaydilar
+-x mahsulotning bahosi o‘sganligi uchun iste’molchilar ushbu tovarni kamroq sotib olishga qaror qabul qilishdilar
+-x mahsulotning taklifi turli sabablarga ko‘ra pasaydi
+-x tovarning narxi pasayganligi uchun iste’molchilar uni ko‘proq sotib olishga harakat qildilar
+?Ishlab chiqaruvchi o‘zining X turdagi mahsulotining narxini 5 foizga tushirdi, oqibatda sotuv hajmi 4 foizga ko‘tarildi X mahsulotga bo‘lgan talab
++elastik
+-noelastik
+-birlik elastik
+-mutloq elastik
+?X mahsulotga bo‘lgan talab chizig‘i siljishini nima bilan izohlash mumkin
++Iste’molchilar didlarining o‘zgarganligi munosabati bilan X tovarni har qanday bahoda ham oldingisiga nisbatan ko‘proq sotib olishni xohlaydilar
+-noelastikX mahsulotning taklifi turli sabablarga ko‘ra pasaydi
+-noelastikX mahsulotning bahosi o‘sganligi uchun iste’molchilar ushbu tovarni kamroq sotib olishga qaror qabul qilishdilar
+-noelastikX tovarning narxi pasayganligi uchun iste’molchilar uni ko‘proq sotib olishga harakat qildilar
+?Qaysi omillarning o‘zgarishi talab egri chizig‘ining siljishiga olib kelmaydi?
++Mahsulotning narxi
+-Moda va didlarning o‘zgarishi
+-Milliy daromadning hajmi va uning taqsimlanishi
+-Iste’molchilarning soni yoki yosh darajasi
+?Texnologiyaning takomillashuvi nimaning siljishiga olib keladi?
++Egri taklif chizig‘ini yuqori va o‘ngga
+-Egri talab chizig‘ini chapga va pastga
+-Egri taklif chizig‘ini chapga va pastga
+-Egri talab chizig‘i yuqoriga (o‘ngga siljiydi
+?Mahsulot narxi davlat tomonidan aholini ijtimoiy himoya qilish maqsadida maksimal belgilansa
++defitsit yuzaga keladi
+-tovar ortiqchaligi paydo bo‘ladi
+-ishsizlik ko‘payadi
+-muvozanat holat ta’minlanadi
+?Talab va taklifning muvofiqlashtirish mexanizmi buzilishi nimaga olib keladi?
++mahsulotlarning ortiqcha yoki defitsit bo’lishiga olib keladi
+-daromadning ko’payishiga
+-resurslar bozorida baxoning pasayishiga
+-ishlab chiqarish xarajatlarini ko’payishiga
+?Agarda bozordagi narx (baho) muvozanat xolatidan past bo’lsa unda
++tovarlar tanqisligi (defitsit) yuzaga keladi
+-ortiqcha mahsulot paydo bo’ladi
+-talab taklifga teng bo’ladi
+-xaridorlar bozori shakllanadi
+?Agar tovar bahosi talab va taklif egri chiziqlarining kesishish nuqtasidan past bo‘lsa
++Taqchillik yuzaga keladi
+-Tovar ortiqchaligi paydo bo‘ladi
+-Muvozanat holat ta’minlanadi
+-Resurslar narxi arzonlashadi
+?Tovar mahsulotiga bo‘lgan talab va taklif ko‘paysa, u holda
++Tovarning umumiy hajmi oshadi
+-Baho ko‘tariladi
+-Baho mo‘tadil qoladi
+-Jamiyatning farovonligi oshadi
+?Tovar narxining bir foizgaga kamayishi natijasida unga bo‘lgan talab hajmi ikki foizga ga oshsa, bunday talabga
++elastik
+-noelastik
+-birlik elastik
+-mutloq noelastik talab deyiladi
+?Narxga bog‘liq talab elastikligi qanday holda yuqori bo‘ladi
++Iste’molchi uchun unchalik muhim bo‘lmagan tovar uchun
+-Qimmatbaho buyumlarga nisbatan birlamchi zaruriy tovarlarga
+-Iste’molchi tomonidan eng zaruriy naf keltiradigan tovar deb hisoblanganda
+-Alternativ xarajatlari yuqori bo‘lgan tovarlarga
+?Agar har qanday hajmdagi mahsulotlar bir xil narxda sotiladigan bo‘lsa,  u holda ushbu tovarga talab
++Mutloq elastik
+-Mutloq noelastik
+-Elastik
+-Noelastik deyiladi
+?Mutloq noelastik talab chizig‘i qanday ko‘rinishga ega?
++Vertikal chiziq
+-Gorizontal chiziq
+-Egri chiziq
+-To‘g‘ri chiziq
+?Tubandagi daromadga bog‘liq elastiklik koeffitsiyentlardan qaysi biri birlamchi extiyojlar uchun ishlatiladigan tovarlarni aks ettiradi?
++0 dan katta ammo 1 dan kichik bo‘lsa
+-0 dan kichik bo‘lsa
+-1 dan katta bo‘lsa 
+-1 ga teng bo‘lsa
+?Iste’molchi uchun befarqlik chizig‘ining joylashuvi va yotiqligi nimani anglatadi?
++Faqat uning hohishini
+-Uning hohishi va daromadi hajmini  
+-Faqat tovar mahsulotining narxini
+-Iste’molchining hohishini, daromadi hajmini va sotib olayotgan tovar narxini
+?Quyidagi fikrlardan qaysi biri noto‘g‘ri bayon etilgan?
++Byudjet chizig‘i ustida joylashgan barcha nuqtalarning naflilik darajasi bir xildir
+-Befarqlik chizig‘ida joylashgan har bir nuqta ikkita tovarning kombinatsiyasini anglatadi
+-Byudjet chizig‘i ustida joylashgan har bir nuqta ikkita tovarning kombinatsiyasini anglatadi
+-Befarqlik chizig‘i ustida joylashgan barcha nuqtalarning naflilik darajasi bir xil
+?“Daromad samarasi” qanday hollarda vujudga keladi?
++mahsulotning narxi pasayganda, iste’molchi ushbu tovarni boshqa tovarlar xaridini pasaytirmasdan oshirgandа
+-agar iste’molchilarning daromadi qisqarganda ular ushbu mahsulotni kamroq sotib olganlaridа
+-iste’molchilar daromadi ko‘tarilganda ayrim mahsulotlar xaridi pasayib ketgandа
+-iste’molchilar daromadi oshganda ular daromadning bir qismini jamg‘arganlaridа
+?Quyidagi tovarlardan qaysi birining daromad samarasi pastroq?
++qulupnay
+-go’sht
+-Kartoshka
+-tuz
+?Daromad” qanday vaziyatda vujudga keltiriladi
++iste’molchilar daromadi oshganda ular daromadning bir qismini jamg’arganlarida
+-iste’molchilar daromadi ko’tarilganda ayrim mahsulotlar xaridi pasayib ketganda
+-mahsulotning narxi pasayib, iste’molchi ushbu tovarni boshqa tovarlar xaridini pasaytirmasdan oshirganda
+-agar iste’molchilarning daromadi qisqarib, ular ushbu mahsulotni kamroq sotib olganlarida
+?Quyidagilardan qaysi biri past qiymatli tovar hisoblanadi
++o’tgan yilgi gazetalar
+-qog’oz salfetka
+-coca-cola
+-alp tog’lariga sayohat
+?“Daromad samarasi” qanday hollarda vujudga keladi?
++Mahsulotning narxi pasayganda, iste’molchi ushbu tovarni boshqa tovarlar xaridini pasaytirmasdan oshirganda
+-Agar iste’molchilarning daromadi qisqarganda ular ushbu mahsulotni kamroq sotib olganlarida
+-Iste’molchilar daromadi ko‘tarilganda ayrim mahsulotlar xaridi pasayib ketganda
+-Iste’molchilar daromadi oshganda ular daromadning bir qismini jamg‘arganlarida
+?Tadbirkor  Eshmatovning do‘stlari bir qancha maslahatlar berdilar Ulardan qaysi biri haq
++Sug‘urtalashfoydaolishnikafolatlamaydi, harajatlardanxalosetadi
+-Tavakkaltadbirlardansug‘urtalansa, kutiladiganfoydahajmio‘sadi
+-Sug‘urtalash kafolatlangan foyda hajmini olish imkonini beradi
+-Sug‘urtaqilingantaqdirdahamtavakkalchilikhechqachonfoydaolibkelmaydi
+?Talaba Toshmatov institutga avtobusda qatnaydi Chipta narxi 800 so‘m Toshmatov chiptani tekshirishg ehtimolini 10 % deb baholadi Chiptasiz chiqish jarimasi 10 ming so‘m Bunday sharoitda
++Talabachiptasotiboladi, chunkikutiladiganjarimamiqdorichiptanarxidanyuqori
+-Talabachiptasotibolmaydi, chunkikutiladiganjarimamiqdorichiptanarxidanpast
+-AgarToshmatovtavakkalqilmasa, harqandayholatdahamchiptasotiboladi
+-Ehtimol 10 % gatengbo‘lsa, sub’ektivhisoblanadivauasosdaqarorqabulqilishmumkinemas
+?Siz-sug‘urta kompaniyasining xodimisiz Siz mijozlar bilan yangi shartnomalar tuzish uchun javobgar hisoblanasiz Shartnoma tuzilgandan keyin ma’lum bo‘layaptiki, mijozlardan birida yashirin yurak porogi bor ekan va kompaniya uning davolanishi uchun shartnomada ko‘rsatilgandan ortiqcha yo‘qotishni amalga oshirishi kerak Siz qanday muammoga duch keldingiz
++Shartnomanibekorqilish
+-Opportunistikharakatga
+-Axborotassimetriyasiga
+-ma’naviy tavakkalchilikka
+?Tavakkalchilikni pasaytirish yo’llari nechta?
++to’rtta
+-Oltita
+-Uchta
+-Sakkizta
+?Tavakkalchilikka bo’lgan munosabat necha xil bo’ladi?
++Uch
+-Besh
+-To’rt
+-O’n 
+?Tadbirkorlikning asosiy shakllari nechta?
++Beshta
+-Uchta
+-to’rtta
+-ikkita
+?Xususiylashtirish – bu
++mulkni, iqtisodiyotdagi davlat sektorini davlat ta‘sarrufidan chiqarish
+-aktsiya chiqarib, sotish
+-kim oshdi savdosi
+-xususiy mulkka ega bo’lish
+?Ishlab chiqarishning samarasiz usullaridan foydalangan tadbirkor
++ish bilan ta’minlangan hisoblanadi
+-ishsiz xisoblanadi
+-qisman ishsiz hisoblanadi
+-ham ish bilan taminlangan ham ishsiz hisoblanadi
+?Firma bu-……
++Mustaqil xo’jalik faoliyatini yurituvchi iqtisodiy sub’ektdir
+-Davlat korxonasi
+-Iqtisodiy resurslardan foydalanuvchi
+- Yakka tartibdagi tadbirkorlik faoliyati
+?Shartnomaning qanday turlari mavjud?
++Klassik, neoklassik,implitsit
+-neoklassik,implitsit
+-Munosabatga asoslangan, fors-major
+-Klassik , neoklassik
+?Ishlab chiqaruvchining muvozanati quyidagi qonun asosida aniqlanadi
++Ishlabchiqarishomillaricheklisamaradorliginingtengligi
+-Talabvatakliftengligi
+-Ishlabchiqarishnimaksimallashtirish
+-Ishlabchiqarishomillariharajatlarinikamaytirish
+?Izokvanta va izokosta chiziqlarida joylashgan xar qanday nuqta nimani bildiradi?
++Xarajatlar summasini
+-Ishlab chiqarilayotgan mahsulot xajmini
+-Qiymat ko‘rinishidagi mahsulot xajmini
+-Resurslar xajmi kombinatsiyasini
+?Izokvanta nimani anglatadi?
++Bir xil xajmda mahsulot ishlab chiqarishni ta’minlovchi omillar kolmbinatsiyasini
+-Yalpi egri ishlab chiqarish xajmini
+-Berilgan resurslar xajmida turlicha ishlab chiqarish xajmlarini
+-O‘rtacha egri maxsulotni
+?Tasavvur qilaylikki, mahsulotni ishlab chiqarish uchun mehnat ( L) va kapital (K) resursi sarflanadi Mehnatning chekli mahsuloti 2ga kapitalning chekli mahsuloti 5ga mehnatning narxi 1dollarga kapital narxi 20 dollarga Chekli daromad 3ga dollarni tashkil etadi Maksimal foyda olishi uchun firma resurslardan qanday foydalanishi kerak?
++Mehnatdan ko‘p, kapitaldan esa kamroq foydalanishi
+-Mehnat va kapitaldan bir xil xajmda ko‘proq foydalanishi
+-Mehnat va kapitaldan bir xil xajmda kamroq foydalanishi
+-Kapitaldan ko‘p, mehnatdan esa kam foydalanishi
+?Bir xil xajmdagi mahsulotni ishlab chiqarishni ta‘minlaydigan ishlab chiqarish omillari sarflari kombinatsiyalarini ifodalovchi chiziq nima deb ataladi?
++izokvanta
+-befarqlik egri chizigi
+-Izokosta
+-byudjet chizigi
+?Qanday shart bajarilsa ishlab chiqarish samarali bo’ladi?
++barcha mavjud resurslar to’liq qo’llanilsa
+-yangi texnologiyalar har yili joriy etilsa
+-barcha kapital resurslari to’liq qo’llanilsa
+-barcha mehnat resurslari to’liq qo’llanilsa
+?Firmaning doimiy xarajatlari – bu?
++Ishlab chiqarish hajmiga bog‘liq bo‘lmagan xarajatlar
+-Resurslar sotib olinayotganda ularga ketgan xarajatlar
+-Har qanday mahsulot ishlab chiqarish hajmida minimal miqdorda sarflanayotgan xarajatlar
+-Ishchi xodimlarga to‘lanayotgan haqdir
+?Chekli xarajatni hisoblash usulini belgilang
++Umumiy  xarajatning kichik miqdorga ko‘paygan qismini  bir birlik mahsulot miqdoriga nisbati
+-Umumiy  xarajatning kichik miqdorga ko‘paygan qismini mahsulot miqdoriga nisbati
+-Doimiy xarajatning mahsulot miqdoriga nisbati
+-Narxni mahsulot miqdoriga ko‘paymasining bir birlik mahsulot miqdoriga nisbati
+?Quyidagilardan qaysi biri umumiy xarajatni aks ettiradi?
++Doimiy  bilan o‘zgaruvchan  xarajatlar yig‘indisi
+-Chekli xarajat
+-O‘zgaruvchan xarajatdan doimiy xarajatni chegirsa
+-Doimiy ,o‘zgaruvchan ,chekli xarajatlar yig‘indisi
+?Qisqa muddatli oraliqda firma 500 birlik mahsulot ishlab chiqardi O‘rtacha o‘zgaruvchan xarajatlar 2 dollarni, o‘rtacha o‘zgarmas xarajatlar 0,5 dollarni tashkil etadi Yuqoridagi raqamlardan foydalanib umumiy xarajatlarni hisoblang?
++1250 dollar
+-2,5 dollar
+-750 dollar
+-1100 dollar
+?Uzoq muddatli oraliqda
++Barcha xarajatlar o‘zgaruvchan bo‘ladi
+-Hamma xarajatlar doimiy hisoblanadi
+-O‘zgaruvchan xarajatlar doimiy xarajatlarga nisbatan tez sur’atlar bilan o‘sib boradi
+-Doimiy xarajatlar o‘zgaruvchan xarajatlarga nisbatan tez sur’atlar bilan o‘sib boradi
+?Qanday hollarda o‘rtacha umumiy xarajatlar miqdori minimal qiymatga erishadi?
++chekli xarajat o‘rtacha umumiy xarajatga teng bo‘lsaa
+-foyda maksimal bo‘lgand
+-chekli xarajat o‘rtacha o‘zgaruvchan xarajatga teng bo‘lsaa
+-o‘rtacha o‘zgaruvchan xarajat doimiy xarajatga teng bo‘lsaa
+?Quyidagi tengliklardan qaysi biri to‘g‘ri hisoblanadi?
++buxgalterlik foyda-noaniq xarajatlar=iqtisodiy foydа
+-iqtisodiy foyda-buxgalterlik foyda=aniq xarajatlar
+-buxgalterlik xarajatlari+ iqtisodiy xarajatlar= normal foyda
+-iqtisodiy foyda-noaniq xarajatlar=buxgalterlik foyda
+?Korxona mahsulotining xarajati va uning foydasi kabi ko’rsatkichlarni iqtisodiyotning qaysi kursi o’rganaadi
++mikroiqtisodiyot
+-buxgalteriya hisobi
+-xalqaro moliya
+-makroiqtisodiyot
+?Firmaning chekli xarajatlari
++uning minimum qiymatida ortacha xarajatlarga teng bo’ladi
+-umumiy xarajatlarni ko’paytiradi
+-doimo oshib boradi
+-agar umumiy xarajatlarni oshirsa, ijobiy hisoblanadi
+?
+-Tadbirkorlik tashabbusi uchun mukofotlash elementi qaysi foyda turiga tegishli
++faqatgina iqtisodiy foydaga
+-faqatgina buxgalteriya foydaga
+-iqtisodiy va normal foydaga
+-iqtisodiy va buxgalteriya foydasiga
+?O‘rtacha xarajatlar chizig‘i egri talab chizig‘i bilan kesishganda qanday holat yuz beradi?
++Firma normal foyda olish holatida bo‘ladi
+-Foyda maksimal bo‘ladi
+-Normal foyda nolga teng bo‘ladi
+-Buxgalterlik foyda nolga teng bo‘ladi
+?Qisqa muddatli oraliqda foydani maksimal yoki xarajatlarni minimallashtiruvchi raqobatlashgan firma o‘z faoliyatini quyidagi holatda to‘xtatadi
++Mahsulotning bahosi chekli xarajatdan past bo‘lganda
+-Mahsulotning bahosi o‘rtacha doimiy xarajatlardan past bo‘lganda
+-Mahsulotning bahosi o‘rtacha o‘zgaruvchan xarajatlardan past bo‘lganda
+-Umumiy daromad umumiy xarajatlarni qoplashga yetmay qolayotganda
+?Agar mahsulotning bahosi ishlab chiqarish uchun sarflanayotgan o‘rtacha umumiy xarajatlarni qoplamaydigan bo‘lsa, u holda firma
++Mahsulot ishlab chiqarish hajmini narx o‘rtacha o‘zgaruvchan xarajatdan katta  bo‘lgani holda,narx chekli xarajatga   tengligi ta’minlanguncha tanlash kerak
+-Ishlab chiqarishni zudlik bilan to‘xtashi kerak
+-Yangi texnologiyani tanlash kerak
+?Uzoq muddatli oraliqda foydani maksimallashtirish yoki xarajatlarni minimallashtirishga harakat qilayotgan raqobatlashuvchi firma ishlab chiqarishni to‘xtatishga majbur, agar
++Mahsulotning bahosi chekli xarajatdan past bo‘lganda
+-O‘rtacha umumiy xarajat chekli xarajatdan kichik bo‘lganda
+-Tushum umumiy xarajatlarni qoplamasa
+-Chekli xarajat o‘rtacha o‘zgaruvchan xarajatdan oshib ketsa
+?Agar firma resurslar xarajatini 10 foizga oshirganda ishlab chiqarish xajmi 15 foizga ko‘tariladigan bo‘lsa, u holda
++Musbat masshtab samarasi kuzatiladi
+-Manfiy masshtab samarasi yuzaga keladi 
+-Omillarning kamayi borish qonuni amal qiladi
+-Egri LATC yuqoriga siljiydi
+?Mukammal raqobatlashgan bozorga yaqin holat kuzatiladigan bozor
++Bug‘doybozori
+-Yengilavtomobillarbozori
+-Qalamlarbozori
+-Xizmatlarbozori
+?Mukammal raqobatlashgan bozorning shartlari hisoblanmaydi
++Ishlabchiqarishdiversifikatsiyasi
+-Bozorgakirisherkinligi
+-Bozordanchiqisherkinligi
+-Sotuvchivaharidorlarningko‘pligi
+?Faqat mukammal raqobatlashgan bozorga tegishli bo‘lgan belgilar quyidagilar
++Firmabozorhokimiyatigaegabo‘lmaydi
+-Firmafoydanimaksimallashtiradi 
+-Uzoqmuddatlioraliqdafirmaiqtisodiyfoydaoladi
+-Talabchizig‘ifirmaningo‘rtachadaromadchizig‘igatengbo‘ladi
+?Odatda, monopolistning chekli xarajati mahsulotning narxidan past bo‘ladi, chunki
++Narx chekli daromaddan yuqori
+-Narx chekli daromaddan pastdir
+-Chekli xarajat o‘rtacha xarajatlardan past
+-Chekli xarajat o‘rtacha xarajatdan yuqoridir
+?Quyidagilardan qaysi biri monopoliyaga olib kelmaydi?
++Ko‘pginasubstituttovarlarniishlabchiqarishvasotish
+-Litseneziyalar
+-Avtorlikhuquqi
+-Yakkatovarmanbaiustidannazorat
+?Mukammal raqobatlashgan bozorning kamchiliklari hisoblanadi
++Ilmiy-izlanishvatajriba-konstruktorlikharajatlariningpastdarajasi
+-Ishlabchiqarishhajminingkamligi
+-Reklamaharajatlariningyuqoridarajasi
+-Narxningbeqarorligi
+?Sof monopoliya va raqobatlashgan bozorning uxshash jihatlarini ko‘rsating
++Bozorda xaridorlar ko‘pchilikni tashkil etadi
+-Xar xil tovarlarni ishlab chiqarishadi
+-Har qaysi firma gorizontal talabga duch kelishadi
+-Bir xil turdagi tovarlarni ishlab chiqarishadi
+?Quyidagilardan qaysi biri tabiiy monopoliya hisoblanadi?
++Toshkent metropoliteni
+-OPEK – xalqaro neft karteli
+-IBM - kompaniyasi
+-“Sharq” nashriyoti
+?Oligopoliya bu
++Unchalik ko‘p bo‘lmagan raqobatlashuvchi firmalardir
+-Bir xil turdagi mahsulotlarni ishlab chiqaruvchi katta xajmdagi raqobatlashuvchi firmalar yig‘indisidir
+-Faqat bitta yirik firma
+-Faqat bitta yirik firma
+?Qaysi bozorda chekli daromad bozor narxiga teng bo‘ladi?
++Raqobatlashgan bozorda
+-Raqobatlashgan monopoliyada
+-Sof monopoliyada
+-Oligopoliyada
+?Agar monopolist foydani chekli daromad,chekli xarajat,o‘rtacha xarajatlar tengligini ta’minlaganda maksimallashtiradigan bo‘lsa, u holda iqtisodiy foyda
++Nolga teng bo‘ladi
+-Manfiy bo‘ladi
+-Musbat bo‘ladi
+-Ham musbat ham manfiy bo‘ladi
+?Oligopoliya nazariyasini yaratgan birinchi iqtisodchi olimni ko‘rsating
++Ogyusten Kurno
+-Edvard Chemberlin
+-Djon Robinson
+-Karl Marks
+?Raqobatlashuvchi firmadan farqli o‘laroq monopolist
++Berilgan bozor talabi doirasida maksimal foydani ta’minlaydigan mahsulot ishlab chiqarish hajmi va bahosini tanlay oladi
+-O‘z mahsulotiga istagan bahoni qo‘ya oladi
+-Istagan hajmda mahsulot ishlab chiqaradi va uni xohlagan narxda sota olish imkoniyatiga ega
+-Istagan hajmda mahsulot ishlab chiqaradi va uni xohlagan narxda sota olish imkoniyatiga ega
+?Foydani maksimallashtirishga harakat qilayotgan monopolist o‘z mahsuloti bahosini pasaytiradi, agar
++Chekli daromad chekli xarajatlardan yuqori bo‘lsa
+-O‘rtacha xarajatlar
+-Reklama xarajatlari o‘sib borsa
+-Chekli daromad o‘zgaruvchan xarajatlarga teng bo‘lsa
+?Raqobatlashuvchi firmadan farqli o‘laroq monopolist
++berilgan bozor talabi doirasida maksimal foydani ta’minlaydigan mahsulot ishlab chiqarish hajmi va bahosini tanlay oladi
+-o‘z foydasini maksimallashtirish maqsadida chekli xarajatlarini chekli daromadga teng holatda ushlab turadi
+-istagan hajmda mahsulot ishlab chiqaradi va uni xohlagan narxda sota olish imkoniyatiga ega
+-o‘z mahsulotiga istagan bahoni qo‘ya oladi
+?Agar tarmoq uchun Xerfindal-Xirshman indeksi yuqori bo’lsa, tarmoq uchun Lerner indeksi qanday 
+-bo’ladi?
++yuqori
+-nolga teng
+-birga teng
+-past bo’ladi
+?Quyida keltirilganlardan qaysi biri sohada raqobatninig yo’qligidan dalolat beradi?
++boshqa firmalar ushbu sohaga "kirish" imkoniyatiga ega bo’lmasa
+-ushbu sohadagi firmalar ishlab chiqarishni kengaytirish imkoniyatiga ega bo’lmasa
+-iqtisodiyotdagi foyda darajasi normadagidan past bo’lsa
+-sohada mehnatga haq to’lash davlatdagi o’rtacha haq to’lash darajasidan pastroq darajada bo’lsa
+?Monopolist qachon iqtisodiy foyda ko’radi?
++uzoq muddatli oraliqda ham, qisqa muddatli oraliqda ham faqat qisqa muddatli oraliqda
+-faqat uzoq muddatli oraliqda
+-hech qachon
+-faqat qisqa muddatli oraliqda
+?Qaysi hollarda firma iste’molchi ortiqchaligini to‘liq egallashi mumkin?
++narx diskrinimatsiyasini qo‘llaganda
+-monopollashgan bozor sharoitida
+-chekli daromad va chekli xarajatlar o‘rtasida farqni maksimallashtiradigan bo‘lsa
+-yalpi foydani maksimallashtirsa
+?Odatda, monopolistning chekli xarajati mahsulotning narxidan past bo‘ladi, chunki
++narx chekli daromaddan yuqori
+-narx chekli daromaddan pastdir
+-chekli xarajat o‘rtacha xarajatlardan past
+-chekli xarajat o‘rtacha xarajatdan yuqoridir
+?Maksimal foydani ko‘zlab xarakat qilayotgan firma qo‘shimcha ishchilarni yollaydi, agar
++Pul ko‘rinishidagi mehnatning chekli mahsuloti ish xaqidan yuqori bo‘lsa
+-Umumiy tushum umumiy xarajatdan past bo‘lsa
+-Qiymat ko‘rinishidagi chekli mahsulotning miqdori pasayganda
+-Qiymat ko‘rinishidagi chekli mahsulotning miqdori ko‘tarilganda
+?Chekli daromadning mehnatning chekli mahsulotiga  nisbati ish haqiga teng bo‘lsa
+-Ish xaqi stavkasi ko‘tarilganda
++Bandlik qisqaradi, agar mehnatga bo‘lgan talab elastik bo‘lsa
+-Bandlik qisqaradi, agar mehnatga bo‘lgan talab mutloq noelastik bo‘lsa
+-Bandlik miqdori oshadi, agar mehnatga bo‘lgan talab elastik bo‘lsa
+-Bandlik miqdori oshadi, agar mehnatga bo‘lgan talab noelastik bo‘lsa
+?Maksimal foyda olishni koz‘layotgan firmaning ish xaqi stavkasi qiymat ko‘rinishidagi mehnatning chekli mahsulotga teng bo‘lmaydi, agar
++Mehnat bozorida firma monopsonistik mavqega ega bo‘lsa
+-Firma mahsulotlar bozorida monopolistik mavqega ega bo‘lsa
+-Ishchilar kasaba uyushmaga birlashgan bo‘lsa
+-Ishchilar kasaba uyushmaga birlashmagan bo‘lsa
+?Quyidagi qayd etilganlarda qaysi biri mehnatga bo‘lgan talabga ta’sir ko‘rsatmaydi?
++Inflyatsiya natijasida sodir bo‘lgan nominal ish xaqining o‘zgarishi
+-Yakunlangan mahsulotga bo‘lgan talab
+-Ishlab chiqarish texnologiyasi
+-Mehnatning chekli mahsuloti bilan boshqa resurslarning chekli mahsuloti o‘rtasidagi munosabat
+?Boshqa sharoitlar o‘zgarmas bo‘lgan sharoitda, mehnatga bo‘lgan talab elastikligi kichik bo‘ladi, agar ushbu mahsulotga bo‘lgan talab
++Noelastik bo‘lsa
+-Elastik bo‘lsa
+-Birlik elastik bo‘lsa
+-Mutloq elastik bo‘lsa
+?Raqobatlashuvchi firmaga nisbatan monopsonist ish xaqini qanday to‘laydi?
++Ishchi kuchini kam yollagan holda, ish xaqini ham kam to‘laydi
+-Ishchi kuchini kam yollagan holda, ish xaqi stavkasini yuqori to‘laydi
+-Ishchi kuchini ko‘p yollagan holda, ish xaqini kam to‘laydi
+-Ishchi kuchini ko‘p yollagan holda, ish xaqini ham ko‘p to‘laydi
+?Agar resurs taklifi mutloq noelastik bo’lsa, iqtisodiy renta
++resurs narxiga teng bo’ladi
+-nolga teng bo’ladi
+-resurs uchun to’lov miqdoriga teng bo’ladi
+-noldan katta bo’ladi
+?Boshqa sharoitlar o‘zgarmas bo‘lgan sharoitda yer rentasi o‘sib boradi, agar
++yerga bo‘lgan talab oshsa
+-yer narxi arzonlashs
+-yer taklifi ko‘pays
+-yerga bo‘lgan talab qisqarsa
+?Asosiy kapital sirasiga nimalar kiradi
++texnika va texnologiyalar
+-davlat obligatsiyalari
+-tashkilot kassasidagi qoldiq pullar
+-tashkilotning hisobida mavjud bo‘lgan mablag‘
+?Yer taklifi
++Mutloq nozlastik
+-Birlik elastik
+- elastik
+-Elastikdir
+?Agar nominal foiz stavkasi 10 foizni, inflyatsiya darajasi yiliga  4 foizni tashkil etsa, u holda real foiz stavkasi
++6%
+-14%
+-25%
+--6% ni tashkil etadi
+?Firmaning umumiy investitsiya hajmi 200 ming dollarni, amortizatsiya hajmi ham 200 ming dollarni tashkil etayapti, bu esa
++Firmaningsofinvestitsiyasinolgatengligidandalolatberadi
+-Firmaningsofinvestitsiyasi 200 mingdollarnitashkiletadi
+-Firmaningsofinvestitsiyasi 400 mingdollarnitiashkiletadi
+-Bundayholatningbo‘lishimumkinemas, chunkiamortizatsiyaumumiyinvestitsiyahajmigatengbo‘lmaydi
+?Yerga bo’lgan talabni qisqartiradigan omillar
++Yalpi hosilning kamayishi
+-ccuda foiz stavkasininig oshihi
+-ccuda foiz stavkasininig pasayishi
+-tayor mahsulotga bo’lgan talabning noelastik bo’lishi
+?Quyida keltirilganlardan qaysi biri ijtimoiy ne’matga taaluqli emas?
++Elektr energiy
+-Militsiy
+-Mamlakat mudofaasi
+-Suv bosishidan himoy
+?Mulkka egalik huquqi nazariyasining asoschisi 
++R Kouz
+-ASmit
+-S Peyovich
+-O Uilyamson
+?Atrof-muhitni zararlash huquqining taklif egri chizig‘i
++Mutloqelastikbo‘lmagan
+-Mutloqelastik
+-Manfiyegiluvchanlikkaega
+-Musbategiluvchanlikkaega
+?Tartibga solinadigan soliqlar tamoyili kim tomonidan taklif qilingan
++APigu
+-F Fon Xayek    
+-JMKeyns
+-R Kouz
+?Bozorning ojizligi nimalarda namoyon bo’ladi
++Monopoliyada, assimetrik axborot, ijtimoiy ne’mat, sug’urta
+-assimetrik axborot, ijtimoiy ne’mat
+-Tavakkalchilik, monopoliyada, assimetrik axborot
+-Bozor signallari,, ijtimoiy ne’mat,sug’urta
+?Iqtisodiyotni real sektori deganda nimani tushunasiz?
++Iqtisodiyotning real sektori – iqtisodiyotning bevosita moddiy ne’matlar ishlab chiqarish va xizmatlar ko’rsatish bilan bog’liq sohasi bo’lib, u o’z ichiga sanoat, qishloq xo’jaligi, qurilish, transport, aloqa tarmoqlarini oladi:
+-Iqtisodiyotning real sektori – iqtisodiyotning bevosita moddiy ne’matlar ishlab chiqarish va xizmatlar ko’rsatish bilan bog’liq sohasi bo’lib, u o’z ichiga  ta’lim, sog‘liqni saqlash, sanoat, qishloq xo’jaligi, qurilish, transport, aloqa tarmoqlarini oladi;
+-Iqtisodiyotning real sektori – iqtisodiyotning bevosita moddiy ne’matlar ishlab chiqarish va xizmatlar ko’rsatish bilan bog’liq sohasi bo’lib, u o’z ichiga  ta’lim, sog‘liqni saqlash, moliya, soliq, sanoat, qishloq xo’jaligi, qurilish, transport, aloqa tarmoqlarini oladi,
+-Iqtisodiyotning real sektori – iqtisodiyotning barcha tarmoqlari va korxonalarini qamrab oladi.
+?Davlat korxonalarini isloh qilish nechchi bosqichdan iborat?
++Uch bosqichdan:
+-Ikki bosqichdan;
+-To‘rt bosqichdan,
+-Besh bosqichdan.
+?Bozor subektlari bo‘lib kimlar hisoblanadi?
++Davlat, korxonalar, uy xo‘jaliklari:
+-Faqat davlat hisoblanadi;
+-Sotuvchi va xaridor,
+-Raqiblar, iste’molchilar, xorijiy korxonalar.
+?Korxonalarning qaday turlari bor?
++mulkchilik shakliga, tarmoq belgilariga, ishlab chiqarish miqyosi va xodimlar soniga, faoliyat yuritish muddatiga ko‘ra:
+-mulkchilik shakliga, tarmoq belgilariga, ishlab chiqarish miqyosi va xodimlar soniga, ishlab chiqarish hajmiga ko‘ra;
+-mulkchilik shakliga, mahsulot ishlab chiqarish turi, ishlab chiqarish miqyosi va xodimlar soniga, faoliyat yuritish muddatiga ko‘ra,
+-mulkchilik shakliga, tarmoq belgilariga, ishlab chiqarish miqyosi va xodimlar soniga, tashkiliy tuzilmasiga ko‘ra.
+?Mulk shakllariga ko‘ra korxonalar quyidagicha shakllarga tasniflanishi mumkin:
++shaxsiy yoki xususiy mulkka asoslangan xususiy korxonalar; jamoat mulkiga asoslangan korxonalar; davlat mulkiga -asoslangan korxonalar; aralash mulkka asoslangan qo’shma korxonalar:
+-shaxsiy yoki xususiy mulkka asoslangan xususiy korxonalar; xorijiy mulkiga asoslangan korxonalar; davlat mulkiga -asoslangan korxonalar; aralash mulkka asoslangan qo’shma korxonalar;
+-shaxsiy yoki xususiy mulkka asoslangan xususiy korxonalar; xorijiy va ijara mulkiga asoslangan korxonalar; davlat mulkiga -asoslangan korxonalar; aralash mulkka asoslangan qo’shma korxonalar,
+-shaxsiy yoki xususiy mulkka asoslangan xususiy korxonalar; xorijiy, ijara va shaxsiy mulkka asoslangan korxonalar; davlat mulkiga -asoslangan korxonalar; aralash mulkka asoslangan qo’shma korxonalar.
+?Korxonalar faoliyatini tartibga soluvchi qonun hujjatlariga qaysilar kiradi?
++Korxona Nizomi; Ta’sis shartnomasi:
+-Korxona Nizomi; Ta’sis shartnomasi; Ijara shartnomasi;
+-Korxona Nizomi; Ta’sis shartnomasi; Mahalliy xokimiyat qarori,
+-Korxona Nizomi; Ta’sis shartnomasi; Ijara shartnomasi; Mahalliy xokimiyat qarori.
+?Yangi korxona tashkil etishda Nizom jamg‘armasi talab etiladimi?
++Talab etiladi:
+-Ixtiyoriy ravishda shakllantiriladi;
+-Talab etilmaydi,
+-Davlat tomonidan shakllantiriladi.
+?Litsenziyalarning qaday turlari bor?
++Oddiy, maxsus, to‘la:
+-Oddiy va maxsus;
+-Oddiy va murakkab,
+-Oddiy, maxsus, murakkab.
+?Shartnoma (bitim) nima?
++bu-huquqiy shakl bo’lib, unda tomonlarning huquq va majburiyatlri, o’zaro aloqalarini tartibga solish meyorlari aks etadi: 
+-bu-huquqiy shakl bo’lib, unda tomonlarning majburiyatlri va javobgarligi, o’zaro aloqalarini tartibga solish meyorlari aks etadi;
+-bu-huquqiy shakl bo’lib tomonlarning asosiy vazifalarni belgilab beradi,
+-bu-majburiy ravishda tuzilgan xujjat bo‘lib tomonlarga aniq vazifalarni belgilab beradi.
+?Samaradorlik nima?
++Samaradorlik, avvalo, korxona faoliyatining sifat jihatlarini tavsiflovchi tushuncha bo‘lib, olingan natija qilingan xarakat yoki xarajatga nisbatan taqqoslash orqali aniqlanadi:
+-Samaradorlik, avvalo, korxona faoliyatining sifat jihatlarini tavsiflovchi tushuncha bo‘lib, olingan foyda orqali aniqlanadi;
+-Samaradorlik, avvalo, korxona faoliyatining sifat jihatlarini tavsiflovchi tushuncha bo‘lib, olingan natija qilingan xarajatga nisbatan taqqoslash orqali aniqlanadi,
+-Samaradorlik, avvalo, korxona faoliyatining sifat jihatlarini tavsiflovchi tushuncha bo‘lib, bajarilgan ishning xajmiga ko‘ra aniqlanadi.
+? Asosiy vositalar aktiv sifatida tan olinganda qanday qiymat bo‘yicha baholanadi?
++Boshlang‘ich qiymat:
+-O‘rtacha qiymat;
+-Qoldiq qiymat,
+-Vazirlik tomonidan belgilangan qiymat.
+?Bino, inshoot va imoratlar bo‘yicha amortizatsiyasi to‘lovlari necha foizni tashkil etadi?
++5: 
+-8 %;
+-7 %,
+-10 %.
+?Dividend nima?
++Korxona foydasiga beriladigan mablag‘:
+-Aksiyadorlik jamiyatining daromadi;
+-Aksiyadorga beriladigan mablag‘.
+-Aksiyador ulushi,
+? Dividend qanday muddatlarda beriladi?
+- #Bir yilga bir marta:
+-Yilning har choragida;
+-Har yarim yilda,
+-Yilning har choragida, yarimida, yilga bir marta.
+?Dividendlar soliqqa tortiladimi?
++Tortiladi:
+-Tortilmaydi;
+-Ma’lum bir stavkalar bo‘yicha tortiladi,
+-Nizomda ko‘rsatilmagan.
+?Aksiyadorlik jamiyatini boshqaruv organi qanday tashkil topgan?
++Aksiyadorlarning umumiy yig‘ilishidan:
+-Kuzatuv kengashidan;
+-Ijroiya organidan,
+-Aksiyadorlarning umumiy yig‘ilishidan, kuzatuv kengashidan, Ijroiya organidan.
+?Aksiyadorlik jamiyati nechaga bo‘linadi?
++2 ga:
+-3 ga;
+-4 ga,
+-6 ga.
+?Aksiyalarning nominal qiymati?
++Belgilangan qiymat:
+-Ustavda ko‘rsatiladi;
+-Vazirlik tomonidan belgilanadi,
+-Aksiyadorlar yig‘ilishida belgilanadi.
+?Asosiy vositalar aktiv sifatida tan olinganda qanday qiymat bo‘yicha baholanadi?
++Boshlang‘ich qiymat:
+-O‘rtacha qiymat;
+-Qoldiq qiymat,
+-Tiklash qiymat.
+?Asosiy vositalar qayta baholash natijasida hisob va hisobotda qanday qiymat bo‘yicha aks ettiriladi?
++Joriy qiymat:
+-O‘rtacha qiymat;
+-Tiklash qiymat,
+-Qoldiq qiymat.
+?Asosiy vositalar qiymati qanday yo‘l bilan so‘ndiriladi?
++Amortizatsiyani hisoblash yo‘li bilan:
+-Inventarizatsiya yo‘li bilan;
+-Balansdan balansga o‘tkazish yo‘li bilan,
+-Sotish yo‘li bilan.
+?Qanday vositaga amortizatsiya hisoblanmaydi?
++Korxona yeriga:
+-Korxona asbob-uskunalariga;
+-Korxonaning butlovchi qismlariga,
+-Korxona bino-inshoatlariga.
+?Asosiy vositalarni necha yilda bir marta inventarizatsiyadan o‘tkaziladi?
++Bir yilda bir:
+-Uch yilda bir;
+-Ikki yilda bir,
+-Besh yilda bir.
+?Korxonaning sof foydasi nima?
++Foydadan soliqlar chegirgandan so‘ng qolgan qismi:
+-Daromaddan harajatni ayirgandan qolgan qismi;
+-Daromaddan ishlab chiqarish harajatlarni ayirgandan qolgan qismi,
+-Daromaddan harajatni ayirgandan qolgan qismi, daromaddan ishlab chiqarish harajatlarni ayirgandan qolgan qismi.
+?Korxonada mahsulot tannarxi qanday topiladi?
++1 so‘mlik mahsulot ishlab chiqarish uchun ketgan harajatlar yig‘indisi:
+-Xizmatlar yig‘indisi;
+-Daromadda xarajatlarni ayirganda,
+-Xizmatlar va ishlar yig‘indisi.
+?Korxonaning favquloddagi foydasi nima?
++Ko‘zda tutilmagan, tasodifiy tusga ega bo‘lgan hodisa yoki xo‘jalik yurituvchi subektning odatdagi faoliyati doirasidan chetga chiqadigan tusdagi operatsiyalar natijasida paydo bo‘ladigan va olinishi kutilmagan foydadir:
+-Kutilmagan foydasi tasodifiy tusga ega bo‘lgan hodisa yoki xo‘jalik yurituvchi subektning odatdagi faoliyatidagi mablag‘i;
+-Investitsiya kiritishdan olingan foyda,
+-Fond birjasi savdosidan olingan foyda.
+?Xo‘jalik shirkatining ishtirokchilari kimlar?
++Biznes vakillari:
+-Yakka tadbirkorlar;
+-Tijoratchi tashkilotlar,
+-Yakka tadbirkorlar, tijoratchi tashkilotlar.
+?Xo‘jalik shirkatini davlat ro‘yhatidan o‘tkazishda ustav fondi qancha miqdorda bo‘lishi kerak? Mehnatga haq to‘lashda eng kam ish haqi necha barobari olinadi?
++Eng kam oylik ish haqining 50 barobari:
+-Eng kam oylik ish haqining 30 barobari;
+-Eng kam oylik ish haqining 25 barobari,
+-Eng kam oylik ish haqining 60 barobari.
+?Xo‘jalik a’zosi bo‘lish uchun har bir shaxs ustav fondiga o‘z ulushining necha foizini qo‘yishi kerak?
++20 %:
+-25 %;
+-30 %,
+-40 %.
+?Korxonaning raqobatlashuvi nima?
++Korxonalar o‘rtasida mahsulotni sotish va ishlab chiqarish bo‘yicha   tortishuvi va kurashi:
+-Boshqa korxonalar bilan iqtisodiy kurashi;
+-Korxonalarning o‘z huquqlarini talab qilishi,
+-Korxonani mahsulotiga talabgor ko‘payishi borasidagi natijalar.
+?Korxona mahsulotiga talab qachon ko‘payadi?
++Korxona yaxshi, sifatli mahsulot ishlab chiqarsa va mahsulotning tannarxi pasaysa:
+-Korxona yaxshi xizmat ko‘rsatsa;
+-Korxona sifatli mahsulot ishlab chiqarsa,
+-Korxona mahsulotining tannarxi pasaysa.
+?Korxona mahsulotiga qachon talab pasayadi?
++Korxona sifatsiz mahsulot ishlab chiqarsa:
+-Korxona xizmati qoniqarsiz bo‘lsa;
+-Korxona boshqaruv tizimi oqilona tashkil etilmasa,
+-Korxonada kadrlar qo‘nimsizligi yuzaga kelsa.
+?Korxonada mehnatga haq to‘lash qanday shaklda amalga oshiriladi?
+-    #Ishbay, vaqtbay:
+-Kishi-soat;
+-Mehnat-soat,
+-Yaratilgan mahsulotga nisbatan.
+?Mehnatga haq to‘lashda eng kam ish haqi necha barobari olinadi?
++Eng kam oylik ish haqining 3 barobari:
+-Eng kam oylik ish haqining 2 barobari;
+-Eng kam oylik ish haqining 1 barobari,
+-Eng kam oylik ish haqining 5 barobari.
+?Korxonalar necha turga bo‘linadi?
++Kichik, o‘rta va yirik korxonalarga:
+-Kichik korxonalarga;
+-O‘rta korxonalarga,
+-Yirik korxonalarga.
+?Aksiyadorlik jamiyatining aksiyalari nimaga qarab taqsimlanadi?
++Qo‘shgan xisssasiga qarab:
+-Sarmoyaga qarab;
+-Aksiyadorlar soniga qarab,
+-Divedend foizlariga qarab.
+?Korxona mulkini qayta baholashni qanday va nimaga asoslanib o‘tkazadi?
++Mustaqil va qonunga asosan:
+-Majburiy va qonunga asosan;
+-Ixtiyoriy tarzda,
+-Korxona direktori bo‘yrug‘iga qarab.
+?Korxona aylanma mablag‘lari necha yilda o‘z qiymatini yo‘qotadi?
++1 yilda:
+-2 yilda;
+-3 yilda,
+-4 yilda.
+?Korxonaning debitor qarzi ko‘payishiga nima sabab bo‘ladi?
++Sotilgan mahsulot va ko‘rsatilgan xizmatlarning mablag‘i o‘z vaqtida to‘lanmasligi:
+-Sotilgan mahsulotlarning o‘z vaqtida pulini to‘lamasligi;
+-Korxona ishining to‘xtab qolishi,
+-Korxona bankrotga uchrashi.
+?Aksiyadorlik jamiyatida aksiya paketi nimani tashkil etadi?
++Aksiyalar joylashtirilgan hujjatlar yig‘indisi:
+-Sotib olingan aksiyalar miqdori;
+-Aksiya egalarining ulushi,
+-Aksiya daromadlarining ma’lum qismi.
+?Korxonadagi aylanma mablag‘lar hajmi qachon ko‘payadi?
++Korxonaga debitor qarzlar qaytganda, investor mablag‘lari ulushi ko‘payganda:
+-Korxonaga debitor qarzlar qaytganda;
+-Korxona faoliyati barqarorlashganda,
+-Investor mablag‘lari ulushi ko‘payganda.
+?Korxona qanday holatda investorga aylanadi?
++Ichki va tashqi investitsiya kiritganda, sarmoyador o‘z xissasini pasaytirganda:
+-Ichki va tashqi invetsitsiya kiritganda;
+-Sarmoyador o‘z xissasini pasaytirganda,
+-Ichki imkoniyatlar oshganda.
+?Korxonalarni sanatsiyalash deganda nimani tushunasiz?
++Korxonaning oyoqqa turishi uchun qarzlarni muzlatish:
+-Korxona qarzlarini kechish;
+-Korxona soliq stavkalarida imtiyozlar berish,
+-Korxona faoliyatini sug‘urtalash.
+?Korxona qanday tarzdagi muassasa hisoblanadi?
++Yuridik:
+-Jismoniy;
+-Mustaqil subekt,
+-Xususiy.
+?Ma’suliyati cheklangan jamiyat nima?
++Mulki uni tasarruf etuvchilarniki bo‘ladi:
+-Mulki o‘ziniki bo‘lmaydi;
+-Mulki davlatniki bo‘ladi,
+-Mulk investorniki bo‘ladi.
+?Hozirgi zamon sharoitlarida korxonalar mulk shakliga ko‘ra quyidagilarga bo‘linadi.
++Davlat, qo‘shma, jamoa, xususiy:
+-Davlat va jamoa;
+-Jamoa va munitsipial,
+-Oilaviy, davlat, xususiy.
+?Aylanma ishlab chiqarish fondlarida ishlab chiqarish zahiralari necha foizni tashkil etadi?
++70 %:
+-60 %;
+-80 %,
+-75 %.
+?Aylanma mablag‘lar ishlab chiqarish jarayonida to‘liq aylanishi uchun necha bosqichni bosib o‘tadi?
++3 bosqichni:
+-2 bosqichni;
+-4 bosqichni,
+-5 bosqichni.
+?Mehnatni ijtimoiy sharoitlari qanday omillardan iborat?
++Jismoniy omillar, ruhiy omillar:
+-Atrof-muhitga ta’sir etuvchi omillar, ruhiy omillar;
+-Atrof-muhitga ta’sir etuvchi omillar, jismoniy omillar, ruhiy omillar,
+-Jismoniy omillar, atrof-muhitga ta’sir etuvchi omillar.
+?Korxonada nominal ish haqi nima?
++Nominal ish haqi- xodimning ma’lum bir vaqt mobaynida  bajargan mehnati uchun hisoblangan va to‘langan ish haqidir:
+-Nominal ish haqi- xodimning ma’lum bir bajargan mehnati uchun hisoblangan va to‘langan ish haqidir;
+-Nominal ish haqi-xodimning ma’lum berilgan vazifani bajarishi uchun haqi evaziga oladigan mablag‘i,
+-Nominal ish haqi- xodimning ishlab chiqargan mahsuloti uchun oladigan puli.
+?Mehnatga haq to‘lashning yagona tarif setkasi bo‘yicha tarif razryadlari nechtaga bo‘linadi?
++22 ta:
+-20 ta;
+-23 ta,
+-24 ta.
+?Ma’suliyati cheklangan jamiyatlar.
++Ta’sis shartnomasi asosida tuzilgan jamiyatni ustav kapitaliga majburiy ravishda pul yoki mulkiy paylar bilan kirgan, ularning miqdori orqali har bir ta’sischini ma’suliyati belgilanadi:
+-Paylarga ajratilgan ustav kapitalini miqdori ta’sis xujatlari bilan belgilanuvchi va o‘z mulki chegarasida majburiyatlar bo‘yicha ma’suliyatga ega bo‘lgan jamiyat;
+-Paylarga ajratilgan mavjud ustav kapitali, ularning miqdori ta’sis xujatlari bilan belgilanadi, ta’sischilar va banklar orqali tan olinadi.
+-Ta’sischilar va banklar orqali tan olinib, ustav kapitali paylarga ajratilib, ularning miqdori ta’sis xujatlari bilan belgilanadi,
+?Ma’suliyati cheklangan jamiyatni ustav kapitali qo‘yidagilarga asoslanib tashkil etiladi:
++Jamiyat ro‘yxatdan o‘tish vaktidagi qonunlarda belgilangan 50 barobar minimal ish xaqidan kam bo‘lmagan holda:
+-Ta’sis xujjatlariga asosan ularni miqdori chegaralangan holda;
+-Ta’sis xujjatlari qabul qilinganda 100-minimal ish xaqi miqdoridan ko‘p bo‘lmagan holda.
+-Ta’sis xujjatlari qabul qilinganda 100-minimal ish xaqi miqdoridan kam bo‘lmagan holda,
+?Xo‘jalik shirkatlariga quyidagilar kiradi.
++Xo‘jalik shirkatini boshqarishdagi ta’sischilarni shaxsiy ishtirokiga asoslangan uyushmalar:
+-Ishtiroqchilarni mulkiy va pul ulushlariga asoslangan uyushmalar;
+-Ta’sischilarni mulkiy badallari va shaxsiy faoliyatiga asoslangan uyushmalar,
+-Ishlab chiqarishdan tashqari boshqa faoliyat bilan shug‘ullanuvchilar.
+?Bozor iqtisodiyoti sharoitida korxona qanday afzal belgi bilan ajralib turadi.
++Foydali bo‘lishi:
+-Ishlab chiqaradigan mahsulotni xarakteri bilan;
+-Ishchilarni to‘la ish bilan ta’minlanganligi,
+-Xorijiy firmalar bilan xamkorlikda ishlashi va mahsulot sifati bilan.
+?Aksiyadorlik jamiyati deb tan olinadi...
++Ustav kapitali ma’lum birliklardagi aksiyalarga bo‘linib, aksionerlarga nisbatan jamiyat majburiyatlarini tasdiqlovchi xujalik sube’kti:
+-Aloxida ajratilgan mulkga ega bo‘lgan va ularni narxi aksiyalarga bo‘lingan xujalik subektlari;
+-Qonun doirasida o‘zini aksiyalarini ishlab chiqarib, ularni sotish bilan shug‘ullanadigan jamiyatlar,
+-Korxonaning oddiy va imtiyozli aksiyalariga ega bo‘lgan aksionerlar uyushmasi.
+?Aksiyadorlik jamiyati ta’sischilari tarkibi.
++Ta’sis xujjatlari bilan belgilanadi:
+-Cheklangan;
+-Cheklanmagan,
+-Aksionerlik jamiyati turi bilan belgilanadi.
+?Ochiq turdagi aksiyadorlik jamiyati deb tan olinadi...
++Aksiyalarga ochiq holda obuna bo‘lish va ularni erkin xolda sota oladigan jamiyatlar:
+-Ochiq jamiyat aksiyalari bir shaxsdan ikkinchi shaxsga, boshqa xissadorlarning roziligisiz o‘tishi mumkin bo‘lgan jamiyatlar;
+-Birgalikda faoliyat yuritish uchun kishilarni va majburiyatlarni birlashtirgan jamiyat,
+-Chegaralgan miqdordagi pul ulushlari doirasida faoliyat natijalari uchun javob beradigan jamiyat.
+?Yopiq turdagi aksionerlik  jamiyatlari deb...
++Aksiyalari faqat uni ta’sischilari orasida yoki oldindan belgilangan doirasida taqsimlanadigan jamiyat:
+-Ularni aksiyalari faqat ularni ta’sischilari  orasida taqsimlanadigan jamiyat;
+-Ularni aksiyalari faqat yopiq obuna xolida taqsimlanadigan jamiyat,
+-Mablag‘i aksiyalarga ajratilgan yuridik shaxs.
+?Korxonaning bankrotligi aniqlanadi
++Korxonada mavjud pul mablag‘lari va yuqori likvidlikka ega bo‘lgan aktivlar yo‘qligi:
+-Moliyaviy koeffitsiyentlar tizimi bilan;
+-Qarzlarning mavjudligi bilan,
+-Kadrlar qo‘nimsizligi va ishlab chiqarish pasayishi orqali.
+?Korxona samarali faoliyat yuritadi, qachonki:
++Resurslardan to‘liq foydalanilganda:
+-Majburiyatlar bo‘yicha qarzlar yo‘qligi;
+-Eksport imkoniyatlari yuqori bo‘lganda,
+-Ustav kapitalini ko‘payishi hisobiga.
+?Korxona kapital quyilma (K) va mehnatni (T) shunday bog‘liqlikda ish pasaydiki, uning oxirgi mahsuli quyidagicha bo‘ladi…
++Ko‘p kapital va ko‘p mehnatdan foydalanish:
+-Ko‘p mehnat va kam kapitaldan foydalanish;
+-Kam mehnat va ko‘p kapitaldan foydalanish.
+-Xodimlarni ish xaqini oshirish,
+?Korxonaning asosiy ishlab chiqarish fondlariga quyidagilar kiritiladi...
++Bino inshootlar uzatish moslamalari, mashina va uskunalar, transport vositalari asbob va moslamalar, xujalik va ishlab chiqarish inventarlari:
+-Bino, inshootlar, uzatish moslamalari, mashina va uskunalar, tugallanmagan ishlab chiqarish, asboblar va moslamalar, transport vositalari;
+-Bino, inshootlar, uzatish moslamalari, mashina va uskunalar, transport vositalari, xom ashyo materiallari, ishlab chiqarish va xujalik inventari,
+-Bino, inshoatlar, uzatish moslamalari, mashina va uskunalar, transport vositalari, asbob uskunalar, ishlab chiqarish va xo‘jalik inventari, tayyor mahsulot.
+?Asosiy fondlarni korxona balansiga kiritish bilan ularni baholash...
++Boshlang‘ich va tiklanish qiymati bo‘yicha:
+-Xo‘jalik tekshiruvchi natijasi bo‘yicha;
+-Xisobot xujjatlarida ko‘rsatilgan qiymati bo‘yicha,
+-Tashqi auditorlar baxosi asosida.
+?Asosiy ishlab chiqarish fondlaridan foydalanishni xarakterlovchi ko‘rsatkichlar;
++Fond qaytimi va fond sig‘imi:
+-Rentabellik va foyda;
+-Ishchilar mehnati fond bilan ta’minlanganligi,
+-Ekspluatatsion tayyorgarlik koefitsiyenti.
+?Asosiy ishlab chiqarish fondlaridan ekstensiv foydalanish quyidagilar orqali aniqlanadi
++Smenalik koeffitsiyenti, uskunalardan ekstensiv foydalanish koeffitsiyenti orqali:
+-Fond sig‘imi va fond qaytimi orqali;
+-Mehnatni fond bilan ta’minlanganligi orqali,
+-Ishlab chiqarish renabelligi orqali.
+?Uskunalardan intensiv foydalanish quyidagilar orqali aniqlanadi:
++Uskunalardan intensiv foydalanish koeffitsiyenti:
+-Smenalik koeffitsiyenti;
+-Ishchilar mehnatini fond bilan ta’minlanganligi,
+-Uskunalarning yaroklilik koeffitsiyenti.
+?Korxonani aylanma fondlari - bu.
++Ishlab chiqarish jarayonida bir marotiba qatnashib, o‘zining to‘liq qiymatini ishlab chiqarilgan mahsulotni tan narxiga o‘tkazib yuboradigan ishlab chiqarish vositalarining bir qismi:
+-Ishlab chiqarish jarayonida bir yil ishtiroq etadigan mehnat buyumlari;
+-Ishlab chiqarish jarayonida bir necha marta qatnashib, uz qiymatini ishlab chiqarilgan mahsulotning tannarxiga o‘tkazib boradigan mehnat buyumlari,
+-Asosiy va yordamchi materiallar, korxonada ishlab chiqarilgan yarim Fabrikatlar, butlovchi buyumlar.
+?Resurslarning aylanishi korxona qo‘yilmalarining xarajatlari o‘sishi bilan shartlangan, ishlab chiqarish esa, qisqarish tendensiyasiga uchragan. Bu xolda material zaxiralari
++Kamayadi: 
+-Ko‘payadi;
+-Nolga teng bo‘ladi,
+-O‘zgarmaydi.
+?Korxonaning aylanma mablag‘lari tartibiga quyidagilar kiritiladi...
++Aylanma mablag‘lar va muomila fondi:
+-Tugallanmagan ishlab chiqarish, ombordagi tayyor mahsulot;
+-Ishlab chiqarish zapaslari, tugalanmagan ishlab chiqarish, kelajakdagi xarajatlar muomila fondi,
+-Pul mablag‘lari.
+?Aylanma mablag‘larni aylanish koeffitsiyenti xarakterlaydi
++1 sumlik ishlab chiqarish fondlariga to‘g‘ri keladigan realizatsiya qilingan mahsulot miqdori:
+-Ishlab chiqarish fondlari aylanishining o‘rtacha davomiyligi;
+-Ma’lum bir davrda aylanma mablag‘larni aylanish soni,
+-Mablag‘larni aylanishidan olinadigan foyda.
+?Maxsulotning material sig‘imi belgilaydi
++Materiallardan samarali foydalanishi:
+-Mahsulot ishlab chiqarish uchun sarflangan materiallarning umumiy og‘irligini;
+-Maxsulot ishlab chiqarish uchun sarflangan materiallar normasini,
+-Tayyorlangan mahsulotlarning toza og‘irligini.
+?Aylanma mablag‘lardan foydalanish samaradorligi quyidagilar orqali belgilanadi...
++Aylanma koeffitsiyenti, bir aylanish o‘rtacha davomiyligi bilan:
+-Aylanma mablag‘larning qaytimi darajasi bilan;
+-Material sig‘imi, fond sig‘imi, fond qaytimi koeffitsiyentlari orqali,
+-Aylanma mablag‘larni belgilangan normativlar ramkasiga keltirish bilan.
+?Kalkulyatsiya moddalari bo‘yicha xarajatlar tasnifi zarur.
++Ma’lum bir turdagi aniq maxsulotni ishlab chiqarish:
+-To’g‘ri va egri xarajatlarni aniqlash uchun;
+-Ishlab chiqarish xarajatlari tizimini tuzish uchun,
+-Marjinal foydani aniqlash uchun xarajatlari.
+?Davr xarajatlari o‘z ichiga quyidagilarni oladi.
++Ilmiy tekshirish va tajriba konstruktorlik tadqiqotlar, ishlab chiqarishni rivojlanirish boshqaruv tizimi uchun xarajatlarni va boshqa operatsion o‘z ichiga oladi xarajatlari:
+-Sotuv va boshqaruv xarajatlarini;
+-Tijorat chiqimlari,
+-Umumxo‘o’jalik chiqimlari.
+?O‘zgaruvchan xarajatlar o‘z ichiga.
++Moddiy xarajatlar va xodimlarni ish haqi uchun xarajatlar:
+-Maxsulot realizatsiyasi uchun xarajatlarini;
+-Amortizatsiya xarajatlarini,
+-Ishlab chiqarishni modernizatsiyasi uchun xarajatlarini.
+?Xarajatlarni doimiy va o‘zgaruvchan xarajatlar bo‘lishdan maqsad:
++Korxonani daromad va xarajat balansini tuzish uchun:
+-Mahsulotni  bahosini  aniqlash;
+-Ishlab chiqarish  hajmini  prognozlash,
+-Foydali va zararsiz ishlashni bashorat qilish.
+?Korxona xarajatlarini minimizatsiya qilishdagi manfaatdor. U quyidagi shartlarga rioya qilsagina unga erishishi mumkin
++Omillarni texnik joylashtirishning normalari bilan u omillar bahosi o‘rtasidagi tenglikni saqlasa:
+-Ishlab chiqarish omillarini raqobatli bozorrda sotib olsa;
+-Doimiy va uzgaruvchan xarajatlar xarajatlar o‘rtasidagi tenglikni qo‘llab-kuvvatlasa,
+-Ishlab chiqarish xajmini kamaytirish va tejamkorlik tartibi ta’minlansa.
+?Zararsizlik nuqtasi aniqlashga yordam beradi.
++Xarajatlar tushum bilan qoplangandagi maxsulot hajmini:
+-Korxona foyda olgan vaqtdagi mahsulot hajmini;
+-Domiy xarajatlar o‘zgaruvchan xarajatlarga teng bo‘lgandagi mahsulot, 
+-Doimiy xarajatlar o‘zgaruvchan xarajatlarga teng bo‘lgandagi maxsulot xajmi.
+?Marjinal foyda bu.
++Sotishdan tushgan tushumlardan, korxonaning o‘zgaruvchan xarajatlarini ayirmasi:
+-Mahsulot sotishdan tushgan tushumdan korxonani doimiy xarajatlarini ayirmasi;
+-Sotishdan  tushgan  tushumlardan  korxonaning xamma  xarajatlari,
+-O‘zgaruvchan xarajatlardan doimiy xarajatlar ayirmasi.
+?Asosiy faoliyat natijasidan foyda - bu.
++Mahsulot  sotishdan  tushgan  yalpi  daromatdan  korxonaning  hamma  xarajatlarini  chegirib  tashlashdan:
+-Mahsulotni sotishdan tushgan daromatdir, realizatsiya qilingan mahsulotning tannarxini tanlash;
+-Mahsulot sotishdan tushgan yalpi foydadan davr xarajatlarini ayirmasi,
+-Davr xarajatlari minus moliyaviy xarajatlar.
+?Rentabelliylik ko‘rsatkichlari.
++Sof foyda bilan korxona aktivlarinining nisbati:
+-Debitorlik qarzlari aylanuvchanligini;
+-Moliyaviy mustaqillik  koeffitsiyenti,
+-Yalpi  foydaning  sotishdan  olingan  tushumdan  aktivlarini chegirib  tashlangan  qismiga nisbati.
+?Quyidagilardan qaysi biri tabiiy monopoliya hisoblanadi?
++Toshkent metropoliteni
+-OPEK – xalqaro neft karteli
+-IBM - kompaniyasi
+-“Sharq” nashriyoti
+?Oligopoliya bu
++Unchalik ko‘p bo‘lmagan raqobatlashuvchi firmalardir
+-Bir xil turdagi mahsulotlarni ishlab chiqaruvchi katta xajmdagi raqobatlashuvchi firmalar yig‘indisidir
+-Faqat bitta yirik firma
+-Faqat bitta yirik firma
+?Qaysi bozorda chekli daromad bozor narxiga teng bo‘ladi?
++Raqobatlashgan bozorda
+-Raqobatlashgan monopoliyada
+-Sof monopoliyada
+-Oligopoliyada
+?Agar monopolist foydani chekli daromad,chekli xarajat,o‘rtacha xarajatlar tengligini ta’minlaganda maksimallashtiradigan bo‘lsa, u holda iqtisodiy foyda
++Nolga teng bo‘ladi
+-Manfiy bo‘ladi
+-Musbat bo‘ladi
+-Ham musbat ham manfiy bo‘ladi
+?Oligopoliya nazariyasini yaratgan birinchi iqtisodchi olimni ko‘rsating
++Ogyusten Kurno
+-Edvard Chemberlin
+-Djon Robinson
+-Karl Marks
+?Raqobatlashuvchi firmadan farqli o‘laroq monopolist
++Berilgan bozor talabi doirasida maksimal foydani ta’minlaydigan mahsulot ishlab chiqarish hajmi va bahosini tanlay oladi
+-O‘z mahsulotiga istagan bahoni qo‘ya oladi
+-Istagan hajmda mahsulot ishlab chiqaradi va uni xohlagan narxda sota olish imkoniyatiga ega
+-Istagan hajmda mahsulot ishlab chiqaradi va uni xohlagan narxda sota olish imkoniyatiga ega
+?Foydani maksimallashtirishga harakat qilayotgan monopolist o‘z mahsuloti bahosini pasaytiradi, agar
++Chekli daromad chekli xarajatlardan yuqori bo‘lsa
+-O‘rtacha xarajatlar
+-Reklama xarajatlari o‘sib borsa
+-Chekli daromad o‘zgaruvchan xarajatlarga teng bo‘lsa
+?Raqobatlashuvchi firmadan farqli o‘laroq monopolist
++berilgan bozor talabi doirasida maksimal foydani ta’minlaydigan mahsulot ishlab chiqarish hajmi va bahosini tanlay oladi
+-o‘z foydasini maksimallashtirish maqsadida chekli xarajatlarini chekli daromadga teng holatda ushlab turadi
+-istagan hajmda mahsulot ishlab chiqaradi va uni xohlagan narxda sota olish imkoniyatiga ega
+-o‘z mahsulotiga istagan bahoni qo‘ya oladi
+?Agar tarmoq uchun Xerfindal-Xirshman indeksi yuqori bo’lsa, tarmoq uchun Lerner indeksi qanday 
+-bo’ladi?
++yuqori
+-nolga teng
+-birga teng
+-past bo’ladi
+?Quyida keltirilganlardan qaysi biri sohada raqobatninig yo’qligidan dalolat beradi?
++boshqa firmalar ushbu sohaga "kirish" imkoniyatiga ega bo’lmasa
+-ushbu sohadagi firmalar ishlab chiqarishni kengaytirish imkoniyatiga ega bo’lmasa
+-iqtisodiyotdagi foyda darajasi normadagidan past bo’lsa
+-sohada mehnatga haq to’lash davlatdagi o’rtacha haq to’lash darajasidan pastroq darajada bo’lsa
+?Monopolist qachon iqtisodiy foyda ko’radi?
++uzoq muddatli oraliqda ham, qisqa muddatli oraliqda ham faqat qisqa muddatli oraliqda
+-faqat uzoq muddatli oraliqda
+-hech qachon
+-faqat qisqa muddatli oraliqda
+?Qaysi hollarda firma iste’molchi ortiqchaligini to‘liq egallashi mumkin?
++narx diskrinimatsiyasini qo‘llaganda
+-monopollashgan bozor sharoitida
+-chekli daromad va chekli xarajatlar o‘rtasida farqni maksimallashtiradigan bo‘lsa
+-yalpi foydani maksimallashtirsa
+?Odatda, monopolistning chekli xarajati mahsulotning narxidan past bo‘ladi, chunki
++narx chekli daromaddan yuqori
+-narx chekli daromaddan pastdir
+-chekli xarajat o‘rtacha xarajatlardan past
+-chekli xarajat o‘rtacha xarajatdan yuqoridir
+?Maksimal foydani ko‘zlab xarakat qilayotgan firma qo‘shimcha ishchilarni yollaydi, agar
++Pul ko‘rinishidagi mehnatning chekli mahsuloti ish xaqidan yuqori bo‘lsa
+-Umumiy tushum umumiy xarajatdan past bo‘lsa
+-Qiymat ko‘rinishidagi chekli mahsulotning miqdori pasayganda
+-Qiymat ko‘rinishidagi chekli mahsulotning miqdori ko‘tarilganda
+?Chekli daromadning mehnatning chekli mahsulotiga  nisbati ish haqiga teng bo‘lsa
+Ish xaqi stavkasi ko‘tarilganda
++Bandlik qisqaradi, agar mehnatga bo‘lgan talab elastik bo‘lsa
+-Bandlik qisqaradi, agar mehnatga bo‘lgan talab mutloq noelastik bo‘lsa
+-Bandlik miqdori oshadi, agar mehnatga bo‘lgan talab elastik bo‘lsa
+-Bandlik miqdori oshadi, agar mehnatga bo‘lgan talab noelastik bo‘lsa
+?Maksimal foyda olishni koz‘layotgan firmaning ish xaqi stavkasi qiymat ko‘rinishidagi mehnatning chekli mahsulotga teng bo‘lmaydi, agar
++Mehnat bozorida firma monopsonistik mavqega ega bo‘lsa
+-Firma mahsulotlar bozorida monopolistik mavqega ega bo‘lsa
+-Ishchilar kasaba uyushmaga birlashgan bo‘lsa
+-Ishchilar kasaba uyushmaga birlashmagan bo‘lsa
